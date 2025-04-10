@@ -48,6 +48,7 @@ export default function HomePage() {
             I teach courses on adolescent development, group dynamics, and crisis intervention, blending theoretical knowledge with practical applications to empower students in human services.
           </p>
         </section>
+
         <section id="grants" className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">Grants & Projects</h2>
           <ul className="list-disc list-inside">
@@ -93,6 +94,7 @@ export default function HomePage() {
             <li>Coordinator, Student Supervision and Evaluation</li>
           </ul>
         </section>
+
         <section id="community" className="mb-12">
           <h2 className="text-2xl font-semibold mb-4">Community Engagement</h2>
           <ul className="list-disc list-inside">
@@ -114,5 +116,3 @@ export default function HomePage() {
     </div>
   );
 }
-
-
